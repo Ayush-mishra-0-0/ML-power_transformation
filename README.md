@@ -18,18 +18,18 @@ Many statistical and machine learning algorithms assume that data is normally di
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/your-username/ML-power_transformation.git
+    ```bash
+    git clone https://github.com/Ayush-mishra-0-0/ML-power_transformation.git
+    ```
 
-2. **Installation**
+2. **Installation:**
 
-To run this project on your local machine, make sure you have Python 3.x installed. You can install the required libraries by creating a virtual environment and running the following command:
+    To run this project on your local machine, make sure you have Python 3.x installed. You can install the required libraries by creating a virtual environment and running the following command:
 
     ```bash
-     pip install -r requirements.txt
+    pip install -r requirements.txt
+    ```
 
-3. **Run the model**
+3. **Run the model:**
 
-   hurray done!! 
-   
-   If you want you can the ml-algorithm like i have used linear regression you can choose any other.
+   Execute the project and celebrate your success! You can run machine learning algorithms of your choice. I have used Linear Regression, but you can select any other algorithm that suits your needs.
